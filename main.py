@@ -13,7 +13,7 @@ version_date = "210514"
 # invert relay outputs
 rel_inv = 0 # set = 1 to invert outputs
 # enable pwm outputs, set to 1
-pwm_on  = 1
+pwm_on  = 0
 # focus buttons
 foc_fwd  = Pin(2, Pin.IN, Pin.PULL_UP)
 foc_bac  = Pin(3, Pin.IN, Pin.PULL_UP)
